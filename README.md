@@ -6,7 +6,7 @@ Reference implementations for Java and SQL patterns commonly used in enterprise 
 - **Java**
   - fundamentals (types, control flow, methods)
   - collections (List/Map/Set patterns)
-  - JDBC examples (PostgreSQL + Oracle)
+  - JDBC examples using prepared statements and try-with-resources
 
 - **SQL**
   - DDL: tables, constraints
